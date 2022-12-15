@@ -1,3 +1,2 @@
-import { Add } from './Add.js';
-
-export { Add };
+import { simpleVal } from './simpleVal.js';
+export { simpleVal };
